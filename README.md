@@ -1,6 +1,4 @@
-# Project Title
-
-Test-thing
+# Test thing
 
 Simple HTML website used for my beginging learning into HTML and github.
 
